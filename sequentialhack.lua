@@ -80,3 +80,10 @@ function mhackingSeqCallback(success, remainingtime)
 	seqSwitch = success
 	seqRemaingingTime = math.floor(remainingtime/1000.0 + 0.5)
 end
+
+
+
+
+
+
+
